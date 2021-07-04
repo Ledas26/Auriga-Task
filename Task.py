@@ -39,6 +39,6 @@ for i in range(1, len(lights)): #comparing lights
             #previous light should be green, green with arrow or no light is on
             continue
         else:
-            quit("not valid") 
+            quit("Traffic light is working wrong") 
 
 print("Traffic light is working correctly") 
